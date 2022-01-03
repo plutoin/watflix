@@ -8,7 +8,7 @@
 
 > 스트리밍 서비스를 이용하는 사용자 증가로 한눈에 최신 업로드 작품과 장르별 작품, 추천작 등 카테고리별로 확인할 수 있는 WATCHA + NETFLIX = WATFLIX라는 이름의 웹 서비스 제작
 
-- [Open Page](https://plutoin.github.io/watflix/)
+- [Open Page](https://wizardly-cori-6673cb.netlify.app)
 - [스토리보드](https://drive.google.com/file/d/1waHVUU3LVP8h8XM0uLWP-ORw6bovElsx/view?usp=sharing)
 
   
