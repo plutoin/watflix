@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4c33ba4c-6e9c-4620-8a6e-5709382e56d5/deploy-status)](https://app.netlify.com/sites/wizardly-cori-6673cb/deploys)
+
 # 🎬 WATFLIX
 
 <p align="center"><img src ="https://user-images.githubusercontent.com/66389585/127108403-3aa367e8-a660-4a74-a182-d5441d021a10.gif" ="center" width="700px" /></p>
